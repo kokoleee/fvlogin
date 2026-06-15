@@ -1,0 +1,6 @@
+{
+  "name": "FV Bank",
+  "description": "A pixel-perfect FV Bank online banking application for USD and digital asset custody, built with React and Tailwind CSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
